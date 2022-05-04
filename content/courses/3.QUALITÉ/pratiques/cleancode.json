@@ -1,0 +1,14 @@
+{
+  "title" : "Clean code",
+  "description" : "Un code de qualité va de paire avec une maintenance efficace de celui-ci. De plus on gagne en rapidité et en simplicité de mise en oeuvre. Toutes les pratiques, principes et standards sont réunis par le Clean Code. Durant cette formation, nous étudirons au travers de cas pratiques, d'exemples et d'exercices ces méthodes qui vous donneront les bonnes armes pour écrire, maintenir et retablir du code. Par de multiple retours d'expériences, vous serez à l'issu de cette formation prêt à mettre en oeuvre vos nouvelles connaissances dans vos projets",
+  "logo" : "https://cdn2.iconfinder.com/data/icons/seo-internet-marketing-4/256/Clean_Code-512.png",
+  "puces" : ["Explication sur le déroulement de la formation. Présentation du plan. Adaptation du plan par rapport au publique et aux attentes",
+  "Clean Code répond directement au besoin de qualité logiciel. Nous déterminerons l’importance du clean code dans la qualité logiciel.", 
+  "Lire du code: Présentation des règles de clean code accompagné de cas pratiques. Nous verrons l’importance du nommage, les step down rule et la gestion des commentaires.",
+  "Ecrire du code: Nous verrons dans cette section la conception orienté objet, les principes d’abstraction, les guidelines SOLID, GRASP, GOF Pattern, YAGNI, LIM, KISS, … .",
+  "Les outils du clean Code: Nous aborderons dans un premier temps les différentes métriques du clean code (CC, CCR, LOC, SI, MI, …), Mais aussi le versionning de sources, les approche TDD et BDD. Et enfin comment animer une code review.",
+  "Gérer la dette technique: Découvertes des outils permettant de réduire la dette technique, le principe du boyscout et la gestion du code legacy. Mais aussi des méthodes d’amélioration comme les MR, le paire ou encore le MOB.",
+  "Retour d’expérience: Présentation de quelque retour d’expérience."],
+  "formateurs": []
+	
+}

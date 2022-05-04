@@ -1,0 +1,15 @@
+{
+  "title" : "MongoDB",
+  "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "logo" : "https://f1.pngfuel.com/png/104/466/497/mongodb-logo-database-nosql-postgresql-mysql-green-text-line-png-clip-art.png",
+  "puces" : ["banane","truc chouette", "troisième truc chouette", "dernier truc de ouf dans ce cours !"],
+  "formateurs": [{"image":"https://gal.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgal.2F2019.2F12.2F11.2F40e14c70-44b1-42eb-8a6e-86321b603a3d.2Ejpeg/480x480/quality/80/focus-point/1949%2C1006/photos-coiffure-de-fete-pour-les-hommes-quel-style-adopter.jpg",
+				 "nom":"banane 1",
+				 "description":"et voici une nouvelle description de bbanane"
+				},
+				{"image":"https://gal.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgal.2F2019.2F12.2F11.2F40e14c70-44b1-42eb-8a6e-86321b603a3d.2Ejpeg/480x480/quality/80/focus-point/1949%2C1006/photos-coiffure-de-fete-pour-les-hommes-quel-style-adopter.jpg",
+				 "nom":"banane 2424",
+				 "description":" nouvelle description de banane 2424"
+				}]
+	
+}

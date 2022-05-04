@@ -1,0 +1,10 @@
+{
+  "title" : "Spark",
+  "description" : "description",
+  "puces" : ["banane","truc chouette", "troisième truc chouette", "dernier truc de ouf dans ce cours !"],
+  "formateurs": [{"image":"https://gal.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fgal.2F2019.2F12.2F11.2F40e14c70-44b1-42eb-8a6e-86321b603a3d.2Ejpeg/480x480/quality/80/focus-point/1949%2C1006/photos-coiffure-de-fete-pour-les-hommes-quel-style-adopter.jpg",
+				 "nom":"banane 112",
+				 "description":"nouvelle def de banane 112"
+				}]
+	
+}
